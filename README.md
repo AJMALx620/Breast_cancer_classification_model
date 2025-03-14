@@ -37,7 +37,7 @@ Goal: Develop a reliable model to assist in early cancer detection.
 
 4️⃣ Hyperparameter Tuning
 
-We fine-tuned Random Forest using GridSearchCV to optimize hyperparameters:
+Fine-tuned Random Forest using GridSearchCV to optimize hyperparameters:
 
 ✔ n_estimators: 50, 100, 200
 
@@ -80,7 +80,7 @@ Install required dependencies:
 
 Open the Jupyter Notebook and run all cells:
 
-jupyter notebook BREAST_cancer_-.ipynb
+#jupyter notebook BREAST_cancer_-.ipynb
 
 📎 Author
 
