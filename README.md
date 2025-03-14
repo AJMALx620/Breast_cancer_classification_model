@@ -1,8 +1,11 @@
 Breast Cancer Classification Using Machine Learning
+
 📌 Project Overview
+
 This project focuses on classifying breast cancer tumors as malignant or benign using multiple machine learning models. The dataset used is well-structured and contains key medical features that help predict cancer type.
 
 📂 Dataset Information
+
 Source:
 This dataset was collected for breast cancer classification. It has been cleaned and preprocessed for model training.
 
