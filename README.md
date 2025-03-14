@@ -32,26 +32,6 @@ Goal: Develop a reliable model to assist in early cancer detection.
 
 ✔ The dataset was split into training (80%) and testing (20%) to ensure fair evaluation.
 
-
-3️⃣ Model Selection & Training
-    Tested several classification models to find the best one:
-
-
-Model	               Accuracy	              F1-Score	            Precision	       Recall
- 
-Logistic Regression	   0.9720	              0.9636	            0.9464	           0.9815
-
-Decision Tree	       0.9231	              0.8972	            0.9057	           0.8889
-
-Random Forest	       0.9790	              0.9725	            0.9636	           0.9815
-
-K-Nearest Neighbors	   0.9650	              0.9550	            0.9298	           0.9815
-
-SVC                    0.9720	              0.9636	            0.9464             0.9815
-
-Gradient Boosting	   0.9580	              0.9455	            0.9286	           0.9630
-
-
 📌 Best Model: Random Forest achieved the highest accuracy (97.9%) and balanced performance.
 
 
